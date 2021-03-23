@@ -19,3 +19,5 @@ The project will also look at the following papers for more information, methods
 - Ruxandra Tapu, Bogdan Mocanu, Andrei Bursuc, Titus Zaharia“A Smartphone-Based Obstacle
 Detection and Classification System for Assisting Visually Impaired People” ICCV2013 workshop paper.
 The expected outcome of this project is the implementation of an online LVQ algorithm to classify images. The algorithms will be used to compare results between different replacement methods, such as sampling cost replacement and clustering. The results of this comparison are expected to be comparable to those found in the paper by Losing, et al. where sampling cost was the more accurate prototype replacement method.
+
+![alt text]https://github.com/iamkrs9/Linear-Vector-Quantization-in-an-Online-Setting/blob/c3e8901424490667c500b581a473ce6ce9b0a473/Result.png
