@@ -1,11 +1,12 @@
 # Linear-Vector-Quantization-in-an-Online-Setting
 
-<h1>Incremental Online Learning Using Learning Vector Quantization (LVQ)<h1/>
-<h2>Arizona State University Grad Students<h2/>
+<h1>Incremental Online Learning Using Learning Vector Quantization (LVQ)</h1>
+  
+<h2>Arizona State University Grad Students</h2>
   
 Mason Smith<br/>Chinmayi Shivareddy<br/> Abhijith Venkatesh Kumar<br/>Abdul Zindani<br/>Karan Shah<br/>
 
-
+<h6>
 The focus of this project will be to implement an incremental online learning architecture using Learning Vector Quantization to classify images. Learning Vector Quantization (LVQ) is a family of algorithms for statistical pattern classification, which aims at learning prototypes representing class regions. Training data is used as prototypes in which the object is classified according to the closest distance to the prototype. Using the model developed for the project, different prototype replacement methods will be implemented and compared. These methods include sampling cost replacement and clustering. The model will be developed using python. In order to develop the model, 70% of the data will be used for training, while 30% will be used as test data, but this is subject to adjustment depending on results of implementation.
 Incremental online learning for tasks such as image classification and identification is significant due to its many applications in the fields of biomedical data analysis, image recognition, and robotics. These methods also address the issue of limited memory resources and computational power for the systems that such algorithms may run on. Storing enough prototypes to accurately generate a ubiquitous model might be infeasible for a highly dynamic system. Some systems in image processing may also have long-term trends that would change the usefulness of prototypes (i.e. day/night). Replacing the LVQ model prototypes to match relevant object characteristics would be helpful in reducing need for memory while maintaining validity of the finite prototypes.
 
@@ -20,8 +21,8 @@ The project will also look at the following papers for more information, methods
 - Ruxandra Tapu, Bogdan Mocanu, Andrei Bursuc, Titus Zaharia“A Smartphone-Based Obstacle
 Detection and Classification System for Assisting Visually Impaired People” ICCV2013 workshop paper.
 The expected outcome of this project is the implementation of an online LVQ algorithm to classify images. The algorithms will be used to compare results between different replacement methods, such as sampling cost replacement and clustering. The results of this comparison are expected to be comparable to those found in the paper by Losing, et al. where sampling cost was the more accurate prototype replacement method.
+</h6>
 
-
-<h1>Result Graph<h1/>
+<h1>Result Graph</h1>
 
 ![alt text](https://github.com/iamkrs9/Linear-Vector-Quantization-in-an-Online-Setting/blob/c3e8901424490667c500b581a473ce6ce9b0a473/Result.png)
