@@ -22,4 +22,5 @@ The expected outcome of this project is the implementation of an online LVQ algo
 
 
 <h1>Result Graph<h1/>
+
 ![alt text](https://github.com/iamkrs9/Linear-Vector-Quantization-in-an-Online-Setting/blob/c3e8901424490667c500b581a473ce6ce9b0a473/Result.png)
