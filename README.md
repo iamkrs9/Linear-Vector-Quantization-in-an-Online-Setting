@@ -1,7 +1,8 @@
 # Linear-Vector-Quantization-in-an-Online-Setting
 
-Incremental Online Learning Using Learning Vector Quantization (LVQ)
-
+<h1>Incremental Online Learning Using Learning Vector Quantization (LVQ)<h1/>
+<h2>Arizona State University Grad Students<h2/>
+  
 Mason Smith<br/>Chinmayi Shivareddy<br/> Abhijith Venkatesh Kumar<br/>Abdul Zindani<br/>Karan Shah<br/>
 
 
