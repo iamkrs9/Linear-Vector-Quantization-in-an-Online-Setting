@@ -1,5 +1,3 @@
-# Linear-Vector-Quantization-in-an-Online-Setting
-
 <h1>Incremental Online Learning Using Learning Vector Quantization (LVQ)</h1>
   
 <h2>Arizona State University Grad Students</h2>
